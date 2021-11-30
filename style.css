@@ -1,0 +1,60 @@
+/********************nav bar********************/
+
+
+.headerlogo{
+    margin-top: 3rem!important;
+    /*mix-blend-mode: multiply;*/
+    }
+.nav-options{
+    margin-right: 30px;
+   
+}
+.fonts{
+    font-family:'Times New Roman', Times, serif;     
+    }
+.welcome-sen-big{
+    text-align: center;
+    text-transform: uppercase;
+    }
+.welcome-sen{
+    margin-bottom: 10px;
+    text-transform:uppercase;
+    }
+.info-part{
+margin-top:  3px;
+}
+p.para-1{
+    margin-top: 30px;
+}
+.para-2{
+    margin-bottom: 30px;
+}
+.card-margin{
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.fa-facebook{
+    color: rgb(14, 28, 221);
+}
+
+.fa-twitter{
+    color: lightskyblue;
+}
+
+.fa-google-plus-g{
+    color: red;
+}
+
+.fa-instagram{
+    color: rgb(235, 25, 235);
+}
+
+.footer-links{
+    margin-top: 20px;
+}
+
+.text-cap{
+    text-transform: capitalize;
+}
+
